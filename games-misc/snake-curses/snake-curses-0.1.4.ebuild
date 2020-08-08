@@ -14,12 +14,14 @@ DEPEND="sys-libs/ncurses"
 RDEPEND="${DEPEND}"
 BDEPEND=""
 
+
 if [[ ${PV} == *9999 ]] ; then
-	EGIT_REPO_URI="https://gitlab.com/libre_hackerman/${PN}.git"
+	EGIT_REPO_URI="https://gitlab.com/libre_hackerman/snake_curses.git"
 	inherit git-r3
 else
-	SRC_URI="https://gitlab.com/libre_hackerman/${PN}/-/archive/${PV}/${P}.tar.gz"
-	KEYWORDS="amd64 x86"
+	SRC_URI="https://gitlab.com/libre_hackerman/snake_curses/-/archive/v${PV}/snake_curses-v${PV}.tar.gz"
+	KEYWORDS="~amd64 ~x86"
+	S="${WORKDIR}/snake_curses-v${PV}"
 fi
 
 src_install() {
