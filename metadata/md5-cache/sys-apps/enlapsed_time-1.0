@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=Counter of time between events, ideal for the shell prompt
+EAPI=7
+HOMEPAGE=https://gitlab.com/libre_hackerman/enlapsed_time
+KEYWORDS=amd64 x86
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=https://gitlab.com/libre_hackerman/enlapsed_time/-/archive/1.0/enlapsed_time-1.0.tar.gz
+_md5_=c3588cdba2452841c1c686b9ef7cd3eb
