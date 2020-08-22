@@ -21,4 +21,3 @@ This is my personal overlay with my Gentoo ebuilds. Notice that I'm far from bei
 
 - **kitchen** *(tuir)*: Useful snippets of python code. [Homepage](https://github.com/fedora-infra/kitchen)
 - **python-telegram** *(spike-telegram)*: Python client for the Telegram's tdlib. [Homepage](https://github.com/alexander-akhmetov/)
-- **pam_wrapper** *(fprintd)*: A tool to test PAM applications and PAM modules. [Homepage](https://cwrap.org/pam_wrapper.html)

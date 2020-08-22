@@ -16,7 +16,7 @@ IUSE=""
 
 DEPEND="dev-libs/libgusb
 sys-auth/libfprint
-sys-auth/pam_wrapper
+sys-libs/pam_wrapper
 dev-python/dbusmock
 dev-python/dbus-python"
 RDEPEND="${DEPEND}"
