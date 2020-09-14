@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>gnu_stallman@protonmail.ch</email>
+		<name>Esteban López</name>
+	</maintainer>
+	<use>
+		<flag name="encryption">End-to-end encryption support with dev-libs/olm</flag>
+	</use>
+</pkgmetadata>

@@ -15,8 +15,10 @@ This is my personal overlay with my Gentoo ebuilds. Notice that I'm far from bei
 - **tuir**: Browse Reddit from your terminal. [Homepage](https://gitlab.com/ajak/tuir/)
 - **fprintd**: D-Bus service to access fingerprint readers. [Homepage](https://gitlab.freedesktop.org/libfprint/fprintd)
 - **devour**: Window Manager agnostic swallowing feature for terminal emulators. [Homepage](https://github.com/salman-abedin/devour)
+- **gomuks**: A terminal based Matrix client written in Go. [Homepage](https://github.com/tulir/gomuks)
 
 ### Dependencies
 
 - **kitchen** *(tuir)*: Useful snippets of python code. [Homepage](https://github.com/fedora-infra/kitchen)
 - **python-telegram** *(spike-telegram)*: Python client for the Telegram's tdlib. [Homepage](https://github.com/alexander-akhmetov/)
+- **olm** *(gomuks)*: An implementation of the Double Ratchet cryptographic ratchet in C++. [Homepage](https://gitlab.matrix.org/matrix-org/olm)
