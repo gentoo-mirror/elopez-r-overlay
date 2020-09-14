@@ -1,7 +1,9 @@
+dev-libs/olm 3.1.5: An implementation of the Double Ratchet cryptographic ratchet in C++
 dev-python/kitchen 1.2.6: Useful snippets of python code
 dev-python/python-telegram 0.12.0: Python client for the Telegram's tdlib
 games-misc/snake-curses 0.1.2 0.1.3 0.1.4 9999: Snake game written in C with Ncurses
 games-sports/ski 6.13: A simple text-mode skiing game
+net-im/gomuks 0.2.0: A terminal based Matrix client written in Go
 net-im/spike-telegram 9999: Telegram client in Ncurses, written in Python
 net-misc/tuir 1.28.3 1.29.0: Browse Reddit from your terminal
 sys-apps/enlapsed_time 1.0: Counter of time between events, ideal for the shell prompt
