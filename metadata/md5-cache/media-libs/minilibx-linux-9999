@@ -9,4 +9,4 @@ PROPERTIES=live
 RDEPEND=sys-devel/make x11-libs/libX11 x11-libs/libXext dev-libs/libbsd
 SLOT=0
 _eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
-_md5_=fe23f026bcdf07e0e04babaa5bb97deb
+_md5_=9df449d13bc65009d2d85edee1ba5c83
