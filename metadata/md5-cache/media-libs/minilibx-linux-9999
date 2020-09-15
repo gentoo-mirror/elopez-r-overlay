@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=sys-devel/make x11-libs/libX11 x11-libs/libXext dev-libs/libbsd
+DESCRIPTION=A simple X-Window (X11R6) programming API in C
+EAPI=7
+HOMEPAGE=https://github.com/42Paris/minilibx-linux
+LICENSE=all-rights-reserved
+PROPERTIES=live
+RDEPEND=sys-devel/make x11-libs/libX11 x11-libs/libXext dev-libs/libbsd
+SLOT=0
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_md5_=fe23f026bcdf07e0e04babaa5bb97deb
