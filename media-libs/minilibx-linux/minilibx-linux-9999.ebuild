@@ -21,7 +21,12 @@ RDEPEND="${DEPEND}"
 BDEPEND=""
 
 src_install() {
+	# Fix man section
+	for m in `ls man/man3`; do
+		mv -v man/man3/$m man/man3/$(echo $m | sed "s/1/3/")
+	done
+
 	doheader mlx.h
 	dolib.a libmlx.a
-	doman man/man1/*
+	doman man/man3/*
 }
