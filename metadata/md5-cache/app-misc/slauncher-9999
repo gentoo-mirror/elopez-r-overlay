@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=sys-apps/file
+DESCRIPTION=Simple launcher as a minimalist replacement for xdg-open
+EAPI=7
+HOMEPAGE=https://gitlab.com/libre_hackerman/slauncher
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=sys-apps/file
+SLOT=0
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_md5_=0e4654b9fe631a1ea79cb16c69acdae9
