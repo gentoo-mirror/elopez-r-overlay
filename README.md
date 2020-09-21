@@ -7,6 +7,7 @@ This is my personal overlay with my Gentoo ebuilds. Notice that I'm far from bei
 - **snake-curses**: Snake game written in C with Ncurses. [Homepage](https://gitlab.com/libre_hackerman/snake_curses)
 - **enlapsed_time**: Counter of time between events, ideal for the shell prompt. [Homepage](https://gitlab.com/libre_hackerman/enlapsed_time)
 - **cwpp**: Wallpaper changer written in C that relies in Feh. [Homepage](https://gitlab.com/libre_hackerman/cwpp)
+- **slauncher**: Simple launcher as a minimalist replacement for xdg-open. [Homepage](https://gitlab.com/libre_hackerman/slauncher)
 - **spike-telegram**: Telegram client in Ncurses, written in Python. [Homepage](https://gitlab.com/libre_hackerman/spike)
 
 ### General packages
