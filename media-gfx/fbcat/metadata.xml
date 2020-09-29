@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>gnu_stallman@protonmail.ch</email>
+		<name>Esteban López</name>
+	</maintainer>
+	<use>
+		<flag name="fbgrab">Support the PNG format and virtual terminal switching</flag>
+		<flag name="doc">Build man pages (requires dev-libs/libxslt and app-text/docbook-xsl-stylesheets) </flag>
+	</use>
+</pkgmetadata>
