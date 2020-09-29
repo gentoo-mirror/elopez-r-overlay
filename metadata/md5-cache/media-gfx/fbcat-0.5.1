@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install
+DEPEND=fbgrab? ( !media-gfx/fbgrab media-gfx/imagemagick sys-apps/kbd ) doc? ( dev-libs/libxslt app-text/docbook-xsl-stylesheets )
+DESCRIPTION=fbcat takes a screenshot using the Linux framebuffer device
+EAPI=7
+HOMEPAGE=http://jwilk.net/software/fbcat
+IUSE=+doc +fbgrab
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=fbgrab? ( !media-gfx/fbgrab media-gfx/imagemagick sys-apps/kbd ) doc? ( dev-libs/libxslt app-text/docbook-xsl-stylesheets )
+SLOT=0
+SRC_URI=https://github.com/jwilk/fbcat/archive/0.5.1.tar.gz
+_md5_=537421804ebe9c25c804b038dee1a43b
