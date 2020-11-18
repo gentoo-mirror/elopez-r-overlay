@@ -12,6 +12,7 @@ This is my personal overlay with my Gentoo ebuilds. Notice that I'm far from bei
 
 ### General packages
 
+- **fakesteak**: Low footprint digital character rain as seen in The Matrix [Homepage](https://github.com/domsson/fakesteak)
 - **ski**: A simple text-mode skiing game. [Homepage](http://www.catb.org/~esr/ski/)
 - **tuir**: Browse Reddit from your terminal. [Homepage](https://gitlab.com/ajak/tuir/)
 - **fprintd**: D-Bus service to access fingerprint readers. [Homepage](https://gitlab.freedesktop.org/libfprint/fprintd)
