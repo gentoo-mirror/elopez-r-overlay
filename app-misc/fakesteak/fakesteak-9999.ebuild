@@ -11,7 +11,6 @@ EGIT_REPO_URI="https://github.com/domsson/${PN}.git"
 
 LICENSE="CC0-1.0"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
 
 src_install() {
 	emake PREFIX="${ED}/usr" install
