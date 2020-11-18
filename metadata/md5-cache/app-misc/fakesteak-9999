@@ -1,0 +1,11 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=Low footprint digital character rain as seen in The Matrix
+EAPI=7
+HOMEPAGE=https://github.com/domsson/fakesteak
+KEYWORDS=~amd64 ~x86
+LICENSE=CC0-1.0
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_md5_=b6259389e1d8b639c7a30e7ef8c27168
