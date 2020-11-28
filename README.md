@@ -4,6 +4,7 @@ This is my personal overlay with my Gentoo ebuilds. Notice that I'm far from bei
 
 ### My programs
 
+- **skcolbmwd**: i3blocks-like status bar generator for DWM [Homepage](https://gitlab.com/libre_hackerman/skcolbmwd)
 - **snake-curses**: Snake game written in C with Ncurses. [Homepage](https://gitlab.com/libre_hackerman/snake_curses)
 - **enlapsed_time**: Counter of time between events, ideal for the shell prompt. [Homepage](https://gitlab.com/libre_hackerman/enlapsed_time)
 - **cwpp**: Wallpaper changer written in C that relies in Feh. [Homepage](https://gitlab.com/libre_hackerman/cwpp)
