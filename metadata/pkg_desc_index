@@ -15,3 +15,4 @@ sys-apps/enlapsed_time 1.0: Counter of time between events, ideal for the shell 
 sys-auth/fprintd 1.90.1-r1 1.90.4: D-Bus service to access fingerprint readers
 x11-misc/cwpp 1.0 9999: CWPP is a wallpaper changer written in C that relies in Feh
 x11-misc/devour 10 11.0 12: Window Manager agnostic swallowing feature for terminal emulators
+x11-misc/skcolbmwd 1.0 9999: i3blocks-like status bar generator for DWM
