@@ -13,6 +13,7 @@ This is my personal overlay with my Gentoo ebuilds. Notice that I'm far from bei
 
 ### General packages
 
+- **arduino-cli**: Arduino command line interface [Homepage](https://arduino.github.io/arduino-cli)
 - **pulseaudio-equalizer-ladspa**: Pulseaudio LADSPA Equalizer [Homepage](https://github.com/pulseaudio-equalizer-ladspa/equalizer)
 - **fakesteak**: Low footprint digital character rain as seen in The Matrix [Homepage](https://github.com/domsson/fakesteak)
 - **ski**: A simple text-mode skiing game. [Homepage](http://www.catb.org/~esr/ski/)
