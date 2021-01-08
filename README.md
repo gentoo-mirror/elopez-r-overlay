@@ -3,9 +3,12 @@
 This is my personal overlay with my Gentoo ebuilds. Notice that I'm far from being an expert writing them, but I'm learning all I can about it. Any help or tip will be very appreciated.
 
 Add the overlay using layman:
-
 ```
-$ layman -a elopez-r-overlay
+# layman -a elopez-r-overlay
+```
+Add the overlay using eselect-repository:
+```
+# eselect repository enable elopez-r-overlay
 ```
 
 ### My programs
