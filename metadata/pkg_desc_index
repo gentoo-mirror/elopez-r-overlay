@@ -13,7 +13,7 @@ net-im/gomuks 0.2.1-r1 0.2.2: A terminal based Matrix client written in Go
 net-im/spike-telegram 9999: Telegram client in Ncurses, written in Python
 net-misc/tuir 1.28.3 1.29.0: Browse Reddit from your terminal
 sys-apps/enlapsed_time 1.0: Counter of time between events, ideal for the shell prompt
-sys-auth/fprintd 1.90.1-r3 1.90.8: D-Bus service to access fingerprint readers
+sys-auth/fprintd 1.90.1-r3 1.90.8 1.90.9: D-Bus service to access fingerprint readers
 x11-misc/cwpp 1.0 9999: CWPP is a wallpaper changer written in C that relies in Feh
 x11-misc/devour 10 11.0 12: Window Manager agnostic swallowing feature for terminal emulators
 x11-misc/skcolbmwd 1.0 9999: i3blocks-like status bar generator for DWM
