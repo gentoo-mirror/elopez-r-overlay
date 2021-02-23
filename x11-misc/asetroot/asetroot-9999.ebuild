@@ -7,7 +7,7 @@ inherit git-r3
 
 DESCRIPTION="A lightweight animated wallpaper program"
 HOMEPAGE="https://github.com/Wilnath/asetroot"
-EGIT_REPO_URI="https://gitlab.com/libre_hackerman/${PN}.git"
+EGIT_REPO_URI="https://github.com/Wilnath/${PN}.git"
 
 LICENSE="MIT"
 SLOT="0"
