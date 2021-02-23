@@ -23,6 +23,7 @@ Add the overlay using eselect-repository:
 
 ### General packages
 
+- **asetroot**: A lightweight animated wallpaper program  [Homepage](https://github.com/Wilnath/asetroot)
 - **arduino-cli**: Arduino command line interface [Homepage](https://arduino.github.io/arduino-cli)
 - **pulseaudio-equalizer-ladspa**: Pulseaudio LADSPA Equalizer [Homepage](https://github.com/pulseaudio-equalizer-ladspa/equalizer)
 - **fakesteak**: Low footprint digital character rain as seen in The Matrix [Homepage](https://github.com/domsson/fakesteak)
