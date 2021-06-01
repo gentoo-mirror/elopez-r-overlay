@@ -11,7 +11,6 @@ media-gfx/fbcat 0.5.1: fbcat takes a screenshot using the Linux framebuffer devi
 media-libs/minilibx-linux 9999: A simple X-Window (X11R6) programming API in C
 media-sound/pulseaudio-equalizer-ladspa 3.0.2-r1: Pulseaudio LADSPA Equalizer
 net-im/gomuks 0.2.1-r1 0.2.2 0.2.3: A terminal based Matrix client written in Go
-net-im/spike-telegram 9999: Telegram client in Ncurses, written in Python
 net-misc/tuir 1.28.3 1.29.0: Browse Reddit from your terminal
 sys-apps/enlapsed_time 1.0: Counter of time between events, ideal for the shell prompt
 sys-auth/fprintd 1.90.1-r3 1.90.8 1.90.9: D-Bus service to access fingerprint readers
