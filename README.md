@@ -15,6 +15,7 @@ Add the overlay using eselect-repository:
 
 - **skcolbmwd**: i3blocks-like status bar generator for DWM [Homepage](https://gitlab.com/libre_hackerman/skcolbmwd)
 - **roberto-bashero**: CLI utility to display the weather forecast from AEMET (Spain only) [Homepage](https://gitlab.com/libre_hackerman/roberto-bashero)
+- **batteryd**: Daemon for battery charge notifications [Homepage](https://gitlab.com/libre_hackerman/batteryd)
 - **snake-curses**: Snake game written in C with Ncurses. [Homepage](https://gitlab.com/libre_hackerman/snake_curses)
 - **enlapsed_time**: Counter of time between events, ideal for the shell prompt. [Homepage](https://gitlab.com/libre_hackerman/enlapsed_time)
 - **cwpp**: Wallpaper changer written in C that relies in Feh. [Homepage](https://gitlab.com/libre_hackerman/cwpp)
