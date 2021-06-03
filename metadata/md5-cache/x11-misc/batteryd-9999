@@ -1,0 +1,13 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=dev-util/pkgconf x11-libs/libnotify
+DESCRIPTION=Daemon for battery charge notifications
+EAPI=7
+HOMEPAGE=https://gitlab.com/libre_hackerman/batteryd
+INHERIT=git-r3
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=dev-util/pkgconf x11-libs/libnotify
+SLOT=0
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_md5_=1635ced00042500cb855bd69dc165640
