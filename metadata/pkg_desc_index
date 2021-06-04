@@ -3,7 +3,7 @@ app-misc/roberto-bashero 9999: CLI utility to display the weather forecast from 
 app-misc/slauncher 0.1 9999: Simple launcher as a minimalist replacement for xdg-open
 dev-embedded/arduino-cli 0.18.0 0.18.1 0.18.2 0.18.3: Arduino command line interface
 dev-libs/olm 3.2.1 3.2.2 3.2.3 3.2.4: An implementation of the Double Ratchet cryptographic ratchet in C++
-dev-python/kitchen 1.2.6: Useful snippets of python code
+dev-python/kitchen 1.2.6-r1: Useful snippets of python code
 dev-python/python-telegram 0.13.0 0.14.0: Python client for the Telegram's tdlib
 games-misc/snake-curses 0.1.2 0.1.3 0.1.4 9999: Snake game written in C with Ncurses
 games-sports/ski 6.13-r1: A simple text-mode skiing game
