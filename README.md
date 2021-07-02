@@ -30,7 +30,6 @@ Add the overlay using eselect-repository:
 - **fakesteak**: Low footprint digital character rain as seen in The Matrix [Homepage](https://github.com/domsson/fakesteak)
 - **ski**: A simple text-mode skiing game. [Homepage](http://www.catb.org/~esr/ski/)
 - **tuir**: Browse Reddit from your terminal. [Homepage](https://gitlab.com/ajak/tuir/)
-- **fprintd**: D-Bus service to access fingerprint readers. [Homepage](https://gitlab.freedesktop.org/libfprint/fprintd)
 - **devour**: Window Manager agnostic swallowing feature for terminal emulators. [Homepage](https://github.com/salman-abedin/devour)
 - **gomuks**: A terminal based Matrix client written in Go. [Homepage](https://github.com/tulir/gomuks)
 - **fbcat**: Fbcat takes a screenshot using the Linux framebuffer device. [Homepage](http://jwilk.net/software/fbcat)
