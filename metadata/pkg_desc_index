@@ -13,7 +13,6 @@ media-sound/pulseaudio-equalizer-ladspa 3.0.2-r1: Pulseaudio LADSPA Equalizer
 net-im/gomuks 0.2.1-r1 0.2.2 0.2.3: A terminal based Matrix client written in Go
 net-misc/tuir 1.28.3 1.29.0 1.29.0-r1: Browse Reddit from your terminal
 sys-apps/enlapsed_time 1.0: Counter of time between events, ideal for the shell prompt
-sys-auth/fprintd 1.90.1-r3 1.90.8 1.90.9: D-Bus service to access fingerprint readers
 x11-misc/asetroot 9999: A lightweight animated wallpaper program
 x11-misc/batteryd 9999: Daemon for battery charge notifications
 x11-misc/cwpp 1.0 9999: CWPP is a wallpaper changer written in C that relies in Feh
